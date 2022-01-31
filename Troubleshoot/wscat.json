@@ -1,1 +1,0 @@
-{ "body" : { "eventName" : "PlayerMessage" , "properties" : { "Message" : "!exec asdf" , "Sender" : "ChunHaoxx" } } , "header" : { "messagePurpose" : "event" } }
